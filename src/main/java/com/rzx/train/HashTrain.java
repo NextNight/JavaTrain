@@ -42,6 +42,8 @@ public class HashTrain {
  *            5.2.2再哈希法：
  *            5.2.3链地址法：
  *            5.2.4建立公共溢出区
+ *
+ *
  */
     public static void hashMapTest(){
         HashMap hashMap =new HashMap();
